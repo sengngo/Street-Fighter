@@ -14,8 +14,18 @@ body{
 
 .main-head{
 	color: darkred;
-	font:  20px Indie Flower,sans-serif;
+	font:  50px Indie Flower,sans-serif;
 	text-align: center;
+}
+
+.use{
+	color: darkred;
+	font: 25px Indie Flower,sans-serif;
+	text-align: center;
+}
+
+li{
+	list-style-type: none;
 }
 
 .ryu{
